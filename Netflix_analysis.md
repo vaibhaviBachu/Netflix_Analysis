@@ -38,9 +38,9 @@ Decrease in new additions after 2020, perhaps because of pandemic-related
  Country-by-Country Content Production
 
 Top 3 countries in content production:
-United States
-India
-United Kingdom
+United States,
+India,
+United Kingdom,
 Bollywood and Hollywood rule the roost when it comes to content share.
 
  Genre Popularity
